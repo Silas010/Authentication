@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: silas@gmail.com
+Date: Fri, 03 Nov 2023 13:21:03 -0000
+Message-ID: <169901766371.4444.10345696358508569101@Rerimoi>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/bx3k33-481dabd32e0ee9c5afce0e18f4ac5276/
+
+Your username, in case you’ve forgotten: silas
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
